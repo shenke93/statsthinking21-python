@@ -15,7 +15,11 @@ This project aims to:
 
 ## 📂 Project Structure
 
-``` project-root/ ├── code/ # Python scripts to generate figures and tables ├── notes/ # Chapter-by-chapter reading notes ├── experiments/ # Additional analyses and visualizations └── data/ # Example datasets used in the book ``` 
+project-root/  
+├── [code/](code/)          # Python scripts to generate figures and tables  
+├── [notes/](notes/)         # Chapter-by-chapter reading notes  
+├── [experiments/](experiments/)   # Additional analyses and visualizations  
+└── [data/](data/)           # Example datasets used in the book  
 
 
 ## 📚 Book Reference
